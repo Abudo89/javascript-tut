@@ -17,5 +17,5 @@ and one composite datatype
 //JavaScript objects are written with curly braces.
 //object properties are written as name: value pairs, separated by commas.
 //The object (person) in the eg below has 4 properties:firstName, lastName, age & eyeColor.
-var person = {firstName:"Abudo", lastName:"Duba", age:30, eyeColor:"black"};
-console.log(person.firstName + "is" + person.age + "years old.");
+let person = {firstName:"Abudo", lastName:"Duba", age:30, eyeColor:"black"};
+console.log(person);
