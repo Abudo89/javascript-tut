@@ -2,7 +2,7 @@
 /* console.log will display the array or object as usual, but console.
 table will tabularize the index and values for you.*/
 
-const myArr = ['Kolade', 'Chelsea', 10, true];
+const myArr = ['Abudo', 'Harambee', 19, true];
 
 console.log(myArr);
 console.table(myArr);
