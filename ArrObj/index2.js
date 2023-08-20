@@ -1,7 +1,7 @@
 //It works with objects the same way it works with arrays:
 const myObj = {
-    name: 'Kolade',
-    luckyNum: 10,
+    name: 'Abudo',
+    luckyNum: 19,
     lovesFootball: true,
   };
   
